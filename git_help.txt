@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "write a messahe"
+git push origin -u main
